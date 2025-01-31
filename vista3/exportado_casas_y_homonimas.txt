@@ -1,0 +1,9 @@
+Listado de Casas:
+Casa 001 [Largo: 23.0, Ancho: 23.0, Alto: 2.0, Pisos: 4]
+Casa 002 [Largo: 23.0, Ancho: 23.0, Alto: 3.0, Pisos: 4]
+Casa 003 [Largo: 23.0, Ancho: 23.0, Alto: 3.0, Pisos: 4]
+Casa 004 [Largo: 22.0, Ancho: 22.0, Alto: 22.0, Pisos: 3]
+
+Casas Homónimas:
+Casa 002 [Largo: 23.0, Ancho: 23.0, Alto: 3.0, Pisos: 4]
+Casa 003 [Largo: 23.0, Ancho: 23.0, Alto: 3.0, Pisos: 4]

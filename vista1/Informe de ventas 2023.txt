@@ -1,0 +1,22 @@
+Informe del año: 2023
+-----------------------------------
+Mes	Ventas	Gastos
+Enero	223.322,00	33.444,00
+Febrero	4.433.443,00	4.343,00
+Marzo	434.343,00	434.343,00
+Abril	0,00	0,00
+Mayo	0,00	0,00
+Junio	0,00	0,00
+Julio	0,00	0,00
+Agosto	0,00	0,00
+Septiembre	0,00	0,00
+Octubre	0,00	0,00
+Noviembre	0,00	0,00
+Diciembre	0,00	0,00
+
+Total Ventas: 5.091.108,00
+Total Gastos: 472.130,00
+Promedio Ventas: 424.259,00
+Mes de mayor venta: Febrero, Ventas: 4.433.443,00, Gastos: 4.343,00
+Mes de mayor gasto: Marzo, Ventas: 434.343,00, Gastos: 434.343,00
+Mes de menor venta: Enero, Ventas: 223.322,00, Gastos: 33.444,00

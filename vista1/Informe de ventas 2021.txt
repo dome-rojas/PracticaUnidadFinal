@@ -1,0 +1,21 @@
+Informe del año: 2021
+-----------------------------------
+Mes	Ventas	Gastos
+Enero	223.2334,00	233.223,00
+Febrero	23.234,00	3.223,00
+Marzo	232.332,00	23.332,00
+Abril	23.322.332,00	2.323,00
+Mayo	4.323.222,00	3.232,00
+Junio	43.244.345,00	23.232,00
+Julio	23.433,00	3.434,00
+Agosto	324.432,00	22.323,00
+Septiembre	2.344.332,00	2.344.234,00
+Octubre	342.433,00	32.323,00
+Noviembre	2.344.343,00	234.324,00
+Diciembre	43.243.432,00	23.233,00
+
+Total Ventas: 119.991.103,00
+Total Gastos: 2.948.436,00
+Promedio Ventas: 9.999.258,58
+Mes de mayor venta: Junio, Ventas: 43.244.345,00, Gastos: 23.232,00
+Mes de menor venta: Febrero, Ventas: 23.234,00, Gastos: 3.223,00

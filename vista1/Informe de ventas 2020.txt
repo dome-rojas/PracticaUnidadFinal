@@ -1,0 +1,22 @@
+Informe del año: 2020
+-----------------------------------
+Mes	Ventas	Gastos
+Enero	2.333.232,00	22.333,00
+Febrero	0,00	0,00
+Marzo	0,00	0,00
+Abril	0,00	0,00
+Mayo	0,00	0,00
+Junio	0,00	0,00
+Julio	0,00	0,00
+Agosto	0,00	0,00
+Septiembre	0,00	0,00
+Octubre	0,00	0,00
+Noviembre	0,00	0,00
+Diciembre	2323,00	0,00
+
+Total Ventas: 2.333.232,00
+Total Gastos: 22.333,00
+Promedio Ventas: 194.436,00
+Mes de mayor venta: Enero, Ventas: 2.333.232,00, Gastos: 22.333,00
+Mes de mayor gasto: Enero, Ventas: 2.333.232,00, Gastos: 22.333,00
+Mes de menor venta: Enero, Ventas: 2.333.232,00, Gastos: 22.333,00

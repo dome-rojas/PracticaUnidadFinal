@@ -1,0 +1,12 @@
+Matriz Original:
+88 89 51 
+65 0 45 
+30 89 37 
+
+Matriz Resultante:
+88 0 51 
+65 0 45 
+30 0 0 
+
+Operaciones realizadas:
+Operación: Eliminar números primos
